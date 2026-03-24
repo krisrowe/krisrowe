@@ -36,7 +36,7 @@ Frameworks, plugins, and MCP servers for building and deploying personal product
 
 ---
 
-# [Google Cloud & Apigee](https://github.com/krisrowe/google)
+# [Google Cloud](https://github.com/krisrowe/google)
 
 ### Apigee
 
@@ -47,10 +47,10 @@ Frameworks, plugins, and MCP servers for building and deploying personal product
 | [apigee-samples](https://github.com/krisrowe/apigee-samples) | Additional Apigee samples and examples |
 | [apigee-guides](https://github.com/krisrowe/apigee-guides) | Apigee how-to guides and documentation |
 | [apigee-pubsub-read](https://github.com/krisrowe/apigee-pubsub-read) | Apigee reading from Cloud Pub/Sub — full deployment example |
-| [apigee-migration-assessment-tool](https://github.com/krisrowe/apigee-migration-assessment-tool) | Assess Apigee 4G (OPDK/SaaS) environments for migration to 5G (X/Hybrid) |
 
-### Google AI
+### Google Workspace & AI
 
 | Repo | What it does |
 |------|-------------|
+| [gworkspace-access](https://github.com/krisrowe/gworkspace-access) | Google Workspace — Gmail, Drive, Docs, Calendar, Chat. MCP server. |
 | [visas](https://github.com/krisrowe/visas) | Vertex AI-powered application |
