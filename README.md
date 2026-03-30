@@ -54,3 +54,18 @@ Frameworks, plugins, and MCP servers for building and deploying personal product
 |------|-------------|
 | [gworkspace-access](https://github.com/krisrowe/gworkspace-access) | Google Workspace — Gmail, Drive, Docs, Calendar, Chat. MCP server. |
 | [visas](https://github.com/krisrowe/visas) | Vertex AI-powered application |
+
+---
+
+## GitHub Topics
+
+Topics are used for discovery and filtering across this namespace.
+Query with `gh repo list krisrowe --topic <topic>`.
+
+| Topic | Meaning | Repos |
+|-------|---------|-------|
+| `mcp-product` | Usable, productized MCP tool with SDK, CLI, and/or MCP server. Packaged for installation and use by others. | gworkspace-access, monarch-access, ticktick-mcp, dotfiles-manager, aicfg, food-agent |
+| `mcp-framework` | Reusable framework for building or deploying MCP products. Not a standalone tool — consumed by other repos. | gapp, mcp-app, app-user |
+| `in-development` | Public repo not yet productized for general use. May serve a narrow audience, lack packaging for easy adoption, or depend on a backend that creates setup barriers. | bills-agent, notes, agentic-consult |
+| `gapp-solution` | Deployed to Google Cloud Run via gapp. | monarch-access, ticktick-mcp |
+| `claude-plugins-marketplace` | Claude Code plugin marketplace repo. | claude-plugins |
